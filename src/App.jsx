@@ -1,11 +1,13 @@
 
 import './App.css'
+import Header from './Component/Header/header'
+
 
 function App() {
 
   return (
     <>
-      <h1 className='text-6xl font-bold'>Initial Project Create</h1>
+      <Header></Header>
     </>
   )
 }
