@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "postTitle": "Exploring the Mountains",
+        "postDescription": "A journey through the beautiful mountains and valleys of the Rockies.",
+        "postDate": "2024-11-01",
+        "readingTime": 5,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/16129703/pexels-photo-16129703/free-photo-of-man-coding-on-computers-sitting-at-desk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "postTitle": "Understanding Artificial Intelligence",
+        "postDescription": "An introduction to AI, covering its history, applications, and future potential.",
+        "postDate": "2024-10-25",
+        "readingTime": 7,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/3862632/pexels-photo-3862632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "postTitle": "Top 10 Healthy Recipes",
+        "postDescription": "Discover ten delicious and healthy recipes that are easy to make and packed with nutrients.",
+        "postDate": "2024-10-18",
+        "readingTime": 4,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/3861943/pexels-photo-3861943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "name": "Alice Johnson",
+        "postTitle": "The Future of Web Development",
+        "postDescription": "An insightful article on emerging trends in web development and their impact on the tech industry.",
+        "postDate": "2024-10-15",
+        "readingTime": 6,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "postTitle": "Mastering Cloud Computing",
+        "postDescription": "A comprehensive guide to understanding and leveraging cloud computing for business and personal projects.",
+        "postDate": "2024-10-10",
+        "readingTime": 8,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/16129703/pexels-photo-16129703/free-photo-of-man-coding-on-computers-sitting-at-desk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "name": "Emily Clark",
+        "postTitle": "A Guide to Minimalism",
+        "postDescription": "Learn how to adopt a minimalist lifestyle and the benefits it can bring to your life.",
+        "postDate": "2024-10-05",
+        "readingTime": 3,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/3862632/pexels-photo-3862632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 7,
+        "name": "Chris Adams",
+        "postTitle": "Building Responsive Layouts",
+        "postDescription": "A step-by-step guide to creating responsive and mobile-friendly layouts in web design.",
+        "postDate": "2024-09-30",
+        "readingTime": 5,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/3861943/pexels-photo-3861943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 8,
+        "name": "Sarah Lee",
+        "postTitle": "Getting Started with Python",
+        "postDescription": "An easy-to-follow guide for beginners looking to learn the basics of Python programming.",
+        "postDate": "2024-09-25",
+        "readingTime": 6,
+        "authorImg": "https://images.pexels.com/photos/29288760/pexels-photo-29288760/free-photo-of-elegant-black-and-white-portrait-of-woman-in-hooded-tunic.jpeg",
+        "postCoverImg": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+    }
+]
